@@ -20,6 +20,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring-ioc-overview/pom.xml" />
         <option value="$PROJECT_DIR$/spring-bean/pom.xml" />
+        <option value="$PROJECT_DIR$/dependency-lookup/pom.xml" />
       </list>
     </option>
   </component>
